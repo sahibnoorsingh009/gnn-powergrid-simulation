@@ -2,12 +2,6 @@
 ````markdown
 # GNN-Based Power Grid Simulation
 
-This repository explores the application of Graph Neural Networks (GNNs) for modeling and simulating electrical power grids. Each node (bus) in the network is treated as a vertex with associated features, and the GNN learns to predict electrical quantities like voltage and phase angle based on power input.
-
-<p align="center">
-  <img src="[gnn.PNG](https://github.com/sahibnoorsingh009/gnn-powergrid-simulation/blob/c300a9ed36bc825bdb1058415b06c676253bafba/gnn.PNG)" width="600"/>
-</p>
-
 ## 📘 Project Overview
 
 - **Slack Bus (Red)**: Input – Voltage (V), Angle (δ); Output – Active/Reactive Power (P, Q)
