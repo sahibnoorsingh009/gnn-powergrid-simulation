@@ -1,8 +1,3 @@
-Here is your complete `README.md` file, ready to copy-paste into your new GitHub repository for the **GNN Power Grid Simulation** project:
-
----
-
-### ✅ `README.md`
 
 ````markdown
 # GNN-Based Power Grid Simulation
@@ -64,20 +59,4 @@ This project helps you understand:
 * Feature propagation in electrical networks
 * GNN architectures for structured data
 
-## 📄 License
 
-This project is licensed under the MIT License. You're free to use, modify, and share it for educational and research purposes.
-
----
-
-If this work helps your learning or research, please consider starring the repository ⭐ or citing it.
-
-```
-
----
-
-Let me know if you want:
-- A `requirements.txt`
-- Citations or references
-- Demo GIFs or example outputs for the README
-```
